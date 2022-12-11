@@ -1,0 +1,32 @@
+.form-check-input:checked{
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}
+
+.form-control:focus{
+  border-color: var(--main-color);
+  box-shadow: none;
+}
+
+.back-home{
+  padding: 30px;
+}
+
+.back-home a{
+  color: var(--main-color);
+}
+
+.back-home i{
+  font-size: 25px;
+}
+.justify-content-center{
+  justify-content: flex-start !important;
+}
+.btn-login-regis{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-trans{
+  color: #fff;
+}
